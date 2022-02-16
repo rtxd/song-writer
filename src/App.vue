@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <key-selector class="d-flex justify-end flex-space-between"/>
+      <key-selector class=""/>
     </v-main>
   </v-app>
 </template>
